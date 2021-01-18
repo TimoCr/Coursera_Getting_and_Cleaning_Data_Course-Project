@@ -19,4 +19,4 @@ The submitted code book called CodeBook.md describes the following:
 - any transformations or work that were performed to clean up the data
 
 # Tidy Data Set
-The submitted textfile called tidyDataset.txt contains the result of the runned R script
+The submitted textfile called tidyDataset.txt contains the result of the runned R script.
